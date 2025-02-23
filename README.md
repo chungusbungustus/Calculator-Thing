@@ -1,4 +1,4 @@
-# Calculator-Website
+# Calculator
 Calculator, created with HTML, CSS and JAVASCRIPT
 
 # Features
